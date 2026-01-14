@@ -244,16 +244,5 @@ Kafka acts as an **event streaming platform** that decouples services and ensure
 
 ---
 
-## ✅ **Conclusion**
+<img width="2160" height="1629" alt="3D_PCB1_2_2026-01-02 (6)" src="https://github.com/user-attachments/assets/e5d1439a-d262-4999-8583-23744b343994" />
 
-Kafka is a **core backbone** of SpinLock’s backend architecture, enabling decoupled, scalable, and resilient communication between services. Combined with MQTT for lightweight device messaging, Kafka handles high-throughput events such as telemetry, motion alerts, notifications, and system logs.
-
----
-
-If you want, I can now generate:
-
-* 🗺️ **A proper architecture diagram (PNG/SVG) with Kafka, MQTT, and microservices**
-* 📝 **Sample Kafka configuration files (`docker-compose.yml` for Kafka + Zookeeper + UI)**
-* 📑 **Event-driven workflow diagrams for key processes**
-
-👉 Would you like me to proceed with any of these?
