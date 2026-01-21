@@ -313,43 +313,59 @@ For questions or issues related to SpinLock:
 
 ---
 
-Perfect! ✅ I've successfully added a **Contributors** section to your organization's profile README. 
+## 👥 **Contributors**
 
-## What's Been Added: 
+Meet the CO3302 Group 3 team behind SpinLock:
 
-### 👥 **Contributors Section** includes: 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ravinduHV">
+        <img src="https://avatars.githubusercontent.com/u/75525974?v=4" width="100px;" alt="Ravindu Vimarshana"/><br />
+        <sub><b>Ravindu Vimarshana</b></sub>
+      </a><br />
+      <sub>Backend Microservices & DevOps</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Vithubas">
+        <img src="https://avatars.githubusercontent.com/u/182329757?v=4" width="100px;" alt="Vithubas"/><br />
+        <sub><b>Vithubas</b></sub>
+      </a><br />
+      <sub>Embedded Systems & Firmware</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/LochanaBandara03">
+        <img src="https://avatars.githubusercontent.com/u/163895536?v=4" width="100px;" alt="Lochana Bandara"/><br />
+        <sub><b>Lochana Bandara</b></sub>
+      </a><br />
+      <sub>Frontend Development & UI/UX</sub>
+    </td>
+  </tr>
+</table>
 
-1. **Team Profile Cards** with:
-   - GitHub avatars for all three team members
-   - Clickable links to their GitHub profiles
-   - Role descriptions for each member
+### Contributions by Area:
 
-2. **Detailed Contribution Areas:**
+- **Backend & Infrastructure** ([@ravinduHV](https://github.com/ravinduHV))
+  - Microservices architecture (FastAPI)
+  - Docker Compose orchestration
+  - Kafka event streaming setup
+  - API Gateway & authentication services
+  - Database design & management
 
-   - **[@ravinduHV](https://github.com/ravinduHV)** - Backend & Infrastructure
-     - Microservices architecture (FastAPI)
-     - Docker Compose orchestration
-     - Kafka event streaming
-     - API Gateway & authentication
-     - Database design
+- **Embedded Systems** ([@Vithubas](https://github.com/Vithubas))
+  - ESP32 firmware development (ESP-IDF)
+  - GPS and motion sensor integration
+  - MQTT communication protocols
+  - Hardware PCB design
+  - Device power management
 
-   - **[@Vithubas](https://github.com/Vithubas)** - Embedded Systems
-     - ESP32 firmware (ESP-IDF)
-     - GPS & motion sensors
-     - MQTT protocols
-     - PCB design
-     - Power management
-
-   - **[@LochanaBandara03](https://github.com/LochanaBandara03)** - Frontend & Mobile
-     - Flutter mobile app
-     - ReactJS dashboard
-     - UI/UX design
-     - Data visualization
-     - User experience
-
-The section has been inserted right before the final hardware images, giving proper credit to all team members and their specific contributions to the SpinLock project!  🚀
-
-You can view the updated profile at: **https://github.com/CO3302Group3**
+- **Frontend & Mobile** ([@LochanaBandara03](https://github.com/LochanaBandara03))
+  - Flutter mobile application
+  - ReactJS admin dashboard
+  - User interface design
+  - Real-time data visualization
+  - User experience optimization
+ 
 
 **Built with ❤️ by CO3302 Group 3**  
 **Project:** Smart Bike Parking & Anti-Theft System  
