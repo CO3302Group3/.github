@@ -324,48 +324,22 @@ Meet the CO3302 Group 3 team behind SpinLock:
         <img src="https://avatars.githubusercontent.com/u/75525974?v=4" width="100px;" alt="Ravindu Vimarshana"/><br />
         <sub><b>Ravindu Vimarshana</b></sub>
       </a><br />
-      <sub>Backend Microservices & DevOps</sub>
     </td>
     <td align="center">
       <a href="https://github.com/Vithubas">
         <img src="https://avatars.githubusercontent.com/u/182329757?v=4" width="100px;" alt="Vithubas"/><br />
         <sub><b>Vithubas</b></sub>
       </a><br />
-      <sub>Embedded Systems & Firmware</sub>
     </td>
     <td align="center">
       <a href="https://github.com/LochanaBandara03">
         <img src="https://avatars.githubusercontent.com/u/163895536?v=4" width="100px;" alt="Lochana Bandara"/><br />
         <sub><b>Lochana Bandara</b></sub>
       </a><br />
-      <sub>Frontend Development & UI/UX</sub>
     </td>
   </tr>
 </table>
 
-### Contributions by Area:
-
-- **Backend & Infrastructure** ([@ravinduHV](https://github.com/ravinduHV))
-  - Microservices architecture (FastAPI)
-  - Docker Compose orchestration
-  - Kafka event streaming setup
-  - API Gateway & authentication services
-  - Database design & management
-
-- **Embedded Systems** ([@Vithubas](https://github.com/Vithubas))
-  - ESP32 firmware development (ESP-IDF)
-  - GPS and motion sensor integration
-  - MQTT communication protocols
-  - Hardware PCB design
-  - Device power management
-
-- **Frontend & Mobile** ([@LochanaBandara03](https://github.com/LochanaBandara03))
-  - Flutter mobile application
-  - ReactJS admin dashboard
-  - User interface design
-  - Real-time data visualization
-  - User experience optimization
- 
 ---
 
 **Built with ❤️ by CO3302 Group 3**  
