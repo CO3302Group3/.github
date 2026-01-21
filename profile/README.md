@@ -313,6 +313,44 @@ For questions or issues related to SpinLock:
 
 ---
 
+Perfect! ✅ I've successfully added a **Contributors** section to your organization's profile README. 
+
+## What's Been Added: 
+
+### 👥 **Contributors Section** includes: 
+
+1. **Team Profile Cards** with:
+   - GitHub avatars for all three team members
+   - Clickable links to their GitHub profiles
+   - Role descriptions for each member
+
+2. **Detailed Contribution Areas:**
+
+   - **[@ravinduHV](https://github.com/ravinduHV)** - Backend & Infrastructure
+     - Microservices architecture (FastAPI)
+     - Docker Compose orchestration
+     - Kafka event streaming
+     - API Gateway & authentication
+     - Database design
+
+   - **[@Vithubas](https://github.com/Vithubas)** - Embedded Systems
+     - ESP32 firmware (ESP-IDF)
+     - GPS & motion sensors
+     - MQTT protocols
+     - PCB design
+     - Power management
+
+   - **[@LochanaBandara03](https://github.com/LochanaBandara03)** - Frontend & Mobile
+     - Flutter mobile app
+     - ReactJS dashboard
+     - UI/UX design
+     - Data visualization
+     - User experience
+
+The section has been inserted right before the final hardware images, giving proper credit to all team members and their specific contributions to the SpinLock project!  🚀
+
+You can view the updated profile at: **https://github.com/CO3302Group3**
+
 **Built with ❤️ by CO3302 Group 3**  
 **Project:** Smart Bike Parking & Anti-Theft System  
 **Platform:** ESP32 + Microservices + Cloud Infrastructure
