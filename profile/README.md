@@ -366,6 +366,7 @@ Meet the CO3302 Group 3 team behind SpinLock:
   - Real-time data visualization
   - User experience optimization
  
+---
 
 **Built with ❤️ by CO3302 Group 3**  
 **Project:** Smart Bike Parking & Anti-Theft System  
